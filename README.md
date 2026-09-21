@@ -1,41 +1,85 @@
-<h1 align="center">Hey, I'm Rayan 👋</h1>
-<h3 align="center">Freelance Senior CMS Developer</h3>
+<div align="center">
 
-<p align="center">
-  Building custom themes, plugins, and frontend experiences across WordPress, Shopify, Wix, Squarespace, and Webflow.
-</p>
+```
+ _____             _              ___    _
+|  __ \           | |            |__ \  | |
+| |__) |__ _ _   _| | ____   ____   ) |  | |
+|  _  // _` | | | | |/ /  \  / __|  / /   | |
+| | \ \ (_| | |_| |   <  /\ \ \__ \/ /_    | |
+|_|  \_\__,_|\__, |_|\_\/  \_\___/____|   |_|
+              __/ |
+             |___/
+```
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KactusMan&style=flat-square&color=blue" alt="Profile views" />
+### aka `kactusman` — Senior CMS & Frontend Architect
+
+</div>
+
+```
+$ whoami
+
+alias:      kactusman
+role:       Senior CMS Developer @ Turn Up Technologies
+xp:         4+ years
+stack:      WordPress • Shopify • Next.js • Webflow • GSAP
+fuel:       coffee (infinite)
+cat:        Daisy (supervising)
+status:     ready for next project...
+
+    /\_/\
+   ( o.o )
+    > ^ <
+```
+
+<div align="center">
+
+⚡ WORDPRESS REST API & ACF PRO • HEADLESS SHOPIFY & LIQUID • NEXT.JS APP ROUTER • GSAP MOTION PHYSICS • WEBFLOW CUSTOM CODE ⚡
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rayan-idrees.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayan-idrees-435a56219/)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rayanidrees4@gmail.com)
+
+</div>
+
+<img src="https://komarev.com/ghpvc/?username=KactusMan&style=for-the-badge&color=black" align="right" alt="Profile views" />
+
+---
+
+### What I build
+
+I build high-performance web platforms: headless storefronts, custom WordPress engines, liquid Shopify systems, and Next.js applications with purposeful motion.
+
+### Toolbox
+
+| Category | Stack |
+|---|---|
+| **CMS** | WordPress & ACF Pro, Shopify & Liquid, Webflow, Framer, Wix, Squarespace |
+| **Code** | PHP, React, Next.js, JavaScript, GSAP |
+| **Style** | Tailwind CSS, Custom CMS Architecture |
+| **APIs** | REST APIs & Webhooks, Headless Commerce |
+
+### Selected launches
+
+| Project | Stack | What it is |
+|---|---|---|
+| [**Steele Auto Group**](https://steeleauto.com) | WordPress · Headless PHP · ACF | Enterprise automotive group, 56 dealerships, custom ACF flexible content, zero page-builder overhead |
+| [**Spazietto**](https://spazietto.com) | Elementor · ACF · Figma | Italian-inspired cabinetry brand, designed and built end to end |
+| [**Digi Consulting Group**](https://digiconsultinggroup.com) | Next.js · Three.js · Tailwind | Digital transformation firm, App Router, 3D hero, full custom build |
+| [**Pulse Drink**](https://pulsedrink.com) | Framer | High-energy DTC beverage brand, kinetic scroll, 3D product renders |
+
+### GitHub Stats
+
+<p align="left">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=KactusMan&show_icons=true&theme=vue-dark&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=KactusMan&layout=compact&theme=vue-dark&hide_border=true" />
 </p>
 
 ---
 
-### 🛠️ Stack
+<div align="center">
 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
-![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+`kactusman/contact.exe` open channel · Karachi, Pakistan
 
-### 💼 Recent Work
+**STATUS: OPEN TO INTERESTING WORK**
 
-- 🛍️ **[Strutstuf](https://strutstuf.com)** — Shopify theme for a luxury footwear brand, custom cart drawer, GSAP/Lenis animations, French/English localization
-- 🚗 **[Steele Auto Group](https://devwp.steeleauto.com)** — WordPress inventory site, VIN/stock search, custom accordion blocks, performance tuning
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=KactusMan&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=KactusMan&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-### 🔗 Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/rayan-idrees-435a56219/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://rayan-idrees.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://github.com/KactusMan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+</div>
